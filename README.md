@@ -4,7 +4,9 @@ A back-end server and database program for e-commerce.
 
 ![screenshot of application](./img/screenshot-for-readme.png?raw=true "screenshot of application banner and main menu")
 <br>
-[Click here for a video walkthrough.](https://drive.google.com/file/d/1ul94bVFGY2xdGDnfTi44n_N8mVYYKIQP/view)<br><br>
+Video Walkthrough:<br>
+[Part One](https://drive.google.com/file/d/1Gs6uKO1W8xcBHFWncu4rZ-9DDa5ZXL44/view)<br>
+[Part Two](https://drive.google.com/file/d/1S65oIG_OKSfCJrTDwP3soWASj9jIC4AU/view)<br><br>
 
 ### Description
 This application allows an online shop to keep track of a database full of products, categories, and their associated tags.
