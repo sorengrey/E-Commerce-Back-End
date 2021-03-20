@@ -8,7 +8,6 @@ A CLI database-management application that keeps track of employees, departments
 
 ### Description
 This application allows an online shop to keep track of a database full of products, categories, and their associated tags.
-<br>
 While there is no front-end webpage, there are still routes that can be used along with Postman to complete tasks such as:
   <ul><li>Viewing all categories, products, and tags./li>
       <li>Viewing a single category, product, or tag.</li>
