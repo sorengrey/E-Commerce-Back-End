@@ -27,10 +27,11 @@ While there is no front-end webpage, there are still routes that can be used alo
 - [Questions](#Questions)
 
 ### Installation <a name="Installation"></a>
-# How to install: #
-Once the application is downloaded, install in the terminal with "npm i".
+<b>How to install:</b>
+<br>Once the application is downloaded, install the necessary packages in the terminal with "npm i".
 <br>Initialize the database by running the schema either in your mysql terminal or in MYSQL Workbench.
-<br>Seed the database by running "node seeds".
+<br>Seed the database by entering "node seeds".
+<br>Start the server with either "node server" or "nodemon server".
 <br>Please refer to the package.json for information about this app's dependencies. 
 
 ### Contributing <a name="Contributing"></a>
