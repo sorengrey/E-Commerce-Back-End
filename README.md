@@ -1,8 +1,8 @@
 # E-Commerce-Back-End
 
-A CLI database-management application that keeps track of employees, departments, and roles.
+A back-end server and database program for e-commerce.
 
-![screenshot of application](./Assets/screenshot.png?raw=true "screenshot of application banner and main menu")
+![screenshot of application](./img/screenshot-for-readme.png?raw=true "screenshot of application banner and main menu")
 <br>
 [Click here for a video walkthrough.](https://drive.google.com/file/d/1ul94bVFGY2xdGDnfTi44n_N8mVYYKIQP/view)<br><br>
 
@@ -16,9 +16,6 @@ While there is no front-end webpage, there are still routes that can be used alo
       <li>Deleting a category, product, or tag.</li>
   </ul>
 <br>
-
-<br>
-There is also an option to update employee records. Users are able to change an employee's first and last name, role, and manager.
 <br>
 
 ### Table Of Contents
