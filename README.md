@@ -9,7 +9,7 @@ A back-end server and database program for e-commerce.
 ### Description
 This application allows an online shop to keep track of a database full of products, categories, and their associated tags.
 While there is no front-end webpage, there are still routes that can be used along with Postman to complete tasks such as:
-  <ul><li>Viewing all categories, products, and tags./li>
+  <ul><li>Viewing all categories, products, and tags.</li>
       <li>Viewing a single category, product, or tag.</li>
       <li>Creating a new category, product, or tag.</li>
       <li>Updating a category, product, or tag.</li>
